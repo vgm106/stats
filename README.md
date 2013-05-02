@@ -1,4 +1,4 @@
-stats
+Stats
 =====
 
 Statistic info for Library staff using KendoUI, PHP and mysql. This repository contains screenshots only
